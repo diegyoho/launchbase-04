@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Resolução de Desafios e Projetos do Launchbase Bootacamp 04
+  Resolução de Desafios e Projetos do Launchbase Bootcamp 04
 </h3>
 
 <p align="center">
