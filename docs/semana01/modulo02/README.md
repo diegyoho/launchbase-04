@@ -26,6 +26,7 @@
   <a href="https://github.com/chicodiegomoreira/launchbase-04">Início</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desafio-2-1-primeiro-html">Desafio 2-1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desafio-2-2-página-de-descrição">Desafio 2-2</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desafio-2-3-página-de-cursos-e-iframe">Desafio 2-3</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
 
@@ -52,6 +53,18 @@
 </div>
 
 ###### Veja a página [aqui](https://chicodiegomoreira.github.io/launchbase-04/semana01/modulo02/desafio-2-2/),  ou clicando na imagem!
+
+## Desafio 2-3: Página de cursos e iframe
+<a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-3-pagina-cursos-e-iframe.md">Descrição</a>
+
+###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/tree/master/docs/semana01/modulo02/desafio-2-3)!
+<div align="center">
+    <a href="https://chicodiegomoreira.github.io/launchbase-04/semana01/modulo02/desafio-2-3/contents.html">
+    <img alt="Exemplo" src="https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo02/imgs/preview-2-3.png" width="100%" />
+    </a>
+</div>
+
+###### Veja a página [aqui](https://chicodiegomoreira.github.io/launchbase-04/semana01/modulo02/desafio-2-3/contents.html),  ou clicando na imagem!
 
 ## Licença
 
