@@ -23,6 +23,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/chicodiegomoreira/launchbase-04">Início</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desafio-1-1-primeiros-passos-com-js">Desafio 1-1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desafio-1-2-lidando-com-objetos-e-vetores">Desafio 1-2</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desafio-1-3-funções-e-estruturas-de-repetição">Desafio 1-3</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

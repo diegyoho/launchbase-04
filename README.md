@@ -22,7 +22,12 @@
 
 </p>
 
-## Módulos
+<p align="center">
+  <a href="#semana-01---módulos">Semana 01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
+</p>
+
+## Semana 01 - Módulos
 
 - [01 - Introdução à programação WEB](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo01/README.md)
 - [02 - Iniciando no Front-end](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo02/README.md)
