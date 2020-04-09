@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="#semana-0-1-módulos">Semana 01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#semana-01---módulos">Semana 01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
 
