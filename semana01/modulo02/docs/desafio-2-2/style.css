@@ -1,0 +1,92 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto&display=swap";
+
+:root {
+    --main-bg-color: #7159c1;
+    --main-text-color: white;
+    --main-link-color: #dcdcdc;
+    --hover-link-color: var(--main-text-color);
+  }
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background: var(--main-bg-color);
+    font-family: 'Roboto', sans-serif;
+    color: var(--hover-link-color);
+}
+
+.links {
+    padding: 20px;
+    background: #00000020;
+    text-align: center;
+}
+
+.links a {
+    margin: 0 30px;
+    color: var(--main-link-color);
+    line-height: 18px;
+    text-decoration: none;
+    transition: 200ms;
+}
+
+.links a:hover {
+    color: var(--hover-link-color);
+    font-size: 18px;
+    line-height: 18px;
+    transition: 200ms;
+}
+
+#wrapper {
+    text-align: center;
+}
+
+#wrapper #logo {
+    width: 70px;
+    height: 70px;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 50%;
+    border: 2px solid var(--main-text-color);
+}
+
+#wrapper #logo img {
+    height: 100%;
+}
+
+#wrapper h1 {
+    margin-bottom: 20px;
+}
+
+#wrapper p {
+    width: 500px;
+    margin: 20px auto;
+    font-size: 24px;
+}
+
+#wrapper ul li {
+    /* Uso do display: inline-block; para os elementos da lista ficarem na mesma linha */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/display */
+    display: inline-block;
+    margin: 20px 50px;
+}
+
+#wrapper ul li img {
+    width: 64px;
+}
+
+#wrapper ul li p {
+    width: 100%;
+    margin: 20px auto;
+}
+
+footer.links {
+    background: #0000;
+}
+
+footer.links a {
+    text-decoration: underline;
+}
