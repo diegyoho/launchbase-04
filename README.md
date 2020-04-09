@@ -24,8 +24,8 @@
 
 ## Módulos
 
-- [01 - Introdução à programação WEB](https://github.com/chicodiegomoreira/launchbase-04-modulo-01)
-- [02 - Iniciando no Front-end](https://github.com/chicodiegomoreira/launchbase-04-modulo-02)
+- [01 - Introdução à programação WEB](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo01/README.md)
+- [02 - Iniciando no Front-end](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo02/README.md)
 
 ## Licença
 
