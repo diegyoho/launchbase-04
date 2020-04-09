@@ -149,17 +149,17 @@ footer.links a {
 
 .modal {
     background-color: var(--main-text-color);
-    width: 90%;
-    height: 90%;
-    margin: 5vh auto;
+    width: 80%;
+    height: 80%;
+    margin: 10vh auto;
     position: relative;
 }
 
-.modal .close-modal {
-    color: black;
+.modal .buttons {
+    color: var(--main-text-color);
     position: absolute;
-    top: 8px;
-    right: 8px;
+    top: -32px;
+    right: -32px;
     cursor: pointer;
 }
 
@@ -172,7 +172,20 @@ footer.links a {
 
 iframe {
     width: 100%;
-    height: 90%;
+    height: 100%;
     position: absolute;
-    top: 5%;
+}
+
+/* === MODAL ACTIVE === */
+
+.modal.maximize {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    position: relative;
+}
+
+.modal.maximize .buttons {
+    top: 8px;
+    right: 16px;
 }
