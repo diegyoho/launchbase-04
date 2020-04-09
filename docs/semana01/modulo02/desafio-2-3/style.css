@@ -104,6 +104,7 @@ footer.links a {
 
 .card {
     background-color: black;
+    cursor: pointer;
 }
 
 .card-image {
