@@ -12,7 +12,7 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
   </a>
 
-  <a href="LICENSE" >
+  <a href="https://github.com/chicodiegomoreira/launchbase-04/blob/master/LICENSE" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
   
@@ -29,4 +29,4 @@
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/chicodiegomoreira/launchbase-04-modulo-02/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/chicodiegomoreira/launchbase-04/blob/master/LICENSE) para mais detalhes.
