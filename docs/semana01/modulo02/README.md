@@ -35,7 +35,7 @@
 ###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo02/desafio-2-1/index.html)!
 <div align="center">
     <a href="https://chicodiegomoreira.github.io/launchbase-04/semana01/modulo02/desafio-2-1/">
-    <img alt="Exemplo" src="https://github.com/chicodiegomoreira/launchbase-04-modulo-02/blob/master/docs/desafio-2-1/imgs/preview.png" width="100%" />
+    <img alt="Exemplo" src="https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo02/imgs/preview-2-1.png" width="100%" />
     </a>
 </div>
 
@@ -47,7 +47,7 @@
 ###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/tree/master/docs/semana01/modulo02/desafio-2-2)!
 <div align="center">
     <a href="https://chicodiegomoreira.github.io/launchbase-04/semana01/modulo02/desafio-2-2/">
-    <img alt="Exemplo" src="https://github.com/chicodiegomoreira/launchbase-04-modulo-02/blob/master/docs/desafio-2-2/imgs/preview.png" width="100%" />
+    <img alt="Exemplo" src="https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo02/imgs/preview-2-2.png" width="100%" />
     </a>
 </div>
 
