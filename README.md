@@ -33,7 +33,7 @@
 - [01 - Introdução à programação WEB](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo01/README.md)
 - [02 - Iniciando no Front-end](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo02/README.md)
 ---
-## [Foodfy](https://github.com/chicodiegomoreira/launchbase-04-foodfy)
+## Foodfy
 - Desafio: Construção de um site completo para uma empresa de receitas chamada [Foodfy](https://github.com/chicodiegomoreira/launchbase-04-foodfy).
 
 ## Licença
