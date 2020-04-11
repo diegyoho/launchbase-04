@@ -1,15 +1,16 @@
 const express = require('express')
 const nunjuks = require('nunjucks')
-const data = require('./data')
+const courses = require('./data')
 
 const server = express()
 
-server.set('view engine', 'njk')
 server.use(express.static('public'))
+server.set('view engine', 'njk')
 
 nunjuks.configure('views', {
     express: server,
-    autoescape: false
+    autoescape: false,
+    noCache: true
 })
 
 server.get('/', function (req, res) {
@@ -51,12 +52,26 @@ server.get('/', function (req, res) {
 
 server.get('/courses', function (req, res) {
     res.render('courses', {
-        itens: data
+        itens: courses
     })
 })
 
+server.get("/courses/:id", function (req, res) {
+    const id = req.params.id;
+
+    const course = courses.find(function (course) {
+        return course.id === id
+    })
+
+    if (!course) {
+        res.render('not-found')
+    } else {
+        res.render('course', { item: course })
+    }
+});
+
 server.use(function (req, res) {
-    res.status(404).render("not-found")
+    res.status(404).render('not-found')
 })
 
 server.listen(5000, function () {

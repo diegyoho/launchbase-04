@@ -34,7 +34,7 @@
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-1-primeiro-servidor.md">Descrição</a>
 - [x] Desafio 3-2: Arquivos nunjucks e dados dinâmicos - 
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-2-nunjucks-e-dados-dinamicos.md">Descrição</a>
-- [ ] Desafio 3-3: Página de descrição do curso - 
+- [x] Desafio 3-3: Página de descrição do curso - 
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-3-pagina-descricao-curso.md">Descrição</a>
 
 ## Instalação e Execução
