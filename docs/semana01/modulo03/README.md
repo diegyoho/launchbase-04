@@ -33,7 +33,7 @@
 
 ### Instalação e Execução
 
-Certifique-se de estar no diretório do projeto antes de executar estes comandos.
+Certifique-se de estar na raiz do projeto antes de executar estes comandos.
 
 - Instalação:
 
