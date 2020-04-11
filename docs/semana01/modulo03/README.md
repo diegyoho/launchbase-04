@@ -32,28 +32,32 @@
 ## Desafios
 - [x] Desafio 3-1: Primeiro servidor - 
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-1-primeiro-servidor.md">Descrição</a>
-- [ ] Desafio 3-2: Arquivos nunjucks e dados dinâmicos - 
+- [x] Desafio 3-2: Arquivos nunjucks e dados dinâmicos - 
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-2-nunjucks-e-dados-dinamicos.md">Descrição</a>
+- [ ] Desafio 3-3: Página de descrição do curso - 
+<a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-3-pagina-descricao-curso.md">Descrição</a>
 
 ## Instalação e Execução
 
-Certifique-se de estar na raiz do projeto antes de executar estes comandos.
+#### Instalação:
 
-- Instalação:
+Certifique-se de estar na raiz do projeto e execute no terminal:
 
 ```
-    npm install
+npm install
 ```
 
-- Execução:
+#### Execução:
 ```
-    npm start
+npm start
 ```
-Se tudo der certo, esta mensagem deve ser mostrada no console:
+Se tudo der certo, esta mensagem deve ser mostrada no terminal:
 
 ```
 Server is running on port: 5000!
 ```
+
+Acesse no navegador: [http://localhost:5000](http://localhost:5000)
 
 ###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/tree/master/docs/semana01/modulo03/desafio-3)!
 
