@@ -108,13 +108,14 @@ footer.links a {
 }
 
 .card-image {
-    text-align: center;
+    display: grid;
     min-height: 200px;
+    align-items: center;
 }
 
 .card-image img {
     max-width: 80%;
-    margin: 10%;
+    margin: 10% auto;
 }
 
 .card-content {

@@ -11,44 +11,21 @@
     </div>
     <section id="cards">
 
-        <div class="card" id="starter">
-            <div class="card-image">
-                <img src="https://skylab.rocketseat.com.br/static/64c237ccff807c054339a62d53b4b402.svg" alt="Starter">
-            </div>
-            <div class="card-content">
-                <p>Descubra o caminho para dominar a OmniStack.</p>
-                <div class="card-info">
-                    <p>5 Módulos</p>
-                    <p class="card-price">Gratuito</p>
+        {% for item in itens %}
+            <div class="card" id="{{ item.id }}">
+                <div class="card-image">
+                    <img src="{{ item.logo }}" alt="Logo de {{ item.name }}">
+                </div>
+                <div class="card-content">
+                    <p>{{ item.description }}</p>
+                    <div class="card-info">
+                        <p>{{ item.modules }}
+                            Módulos</p>
+                        <p class="card-price">{{ item.price }}</p>
+                    </div>
                 </div>
             </div>
-        </div>
-
-        <div class="card" id="launchbase">
-            <div class="card-image">
-                <img src="https://skylab.rocketseat.com.br/static/0828532024cb46921a6b5e941f8d788d.svg" alt="LaunchBase">
-            </div>
-            <div class="card-content">
-                <p>Domine programação do zero no menor tempo possível.</p>
-                <div class="card-info">
-                    <p>12 Módulos</p>
-                    <p class="card-price">Pago</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="card" id="gostack">
-            <div class="card-image">
-                <img src="https://skylab.rocketseat.com.br/static/83a178a0653dab1d55e2ed7946465975.svg" alt="GoStack">
-            </div>
-            <div class="card-content">
-                <p>Treinamento imersivo nas tecnologias mais modernas.</p>
-                <div class="card-info">
-                    <p>18 Módulos</p>
-                    <p class="card-price">Pago</p>
-                </div>
-            </div>
-        </div>
+        {% endfor %}
 
     </section>
 
