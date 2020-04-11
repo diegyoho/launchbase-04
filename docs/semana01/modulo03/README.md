@@ -24,14 +24,18 @@
 
 <p align="center">
   <a href="https://github.com/chicodiegomoreira/launchbase-04">Início</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#desafio-3-1-primeiro-servidor">Desafio 3-1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#instalação-e-execução">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
 
-## Desafio 3-1: Primeiro servidor
+## Desafios
+- [x] Desafio 3-1: Primeiro servidor - 
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-1-primeiro-servidor.md">Descrição</a>
+- [ ] Desafio 3-2: Arquivos nunjucks e dados dinâmicos - 
+<a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-2-nunjucks-e-dados-dinamicos.md">Descrição</a>
 
-### Instalação e Execução
+## Instalação e Execução
 
 Certifique-se de estar na raiz do projeto antes de executar estes comandos.
 
@@ -51,7 +55,7 @@ Se tudo der certo, esta mensagem deve ser mostrada no console:
 Server is running on port: 5000!
 ```
 
-###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/tree/master/docs/semana01/modulo03/desafio-3-1)!
+###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/tree/master/docs/semana01/modulo03/desafio-3)!
 
 ## Licença
 
