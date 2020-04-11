@@ -190,6 +190,7 @@ iframe {
 .modal.maximize .buttons {
     top: 8px;
     right: 16px;
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 /* === NOT FOUND === */
