@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Resolução de Desafios e Projetos do LaunchBase Bootcamp 04
+  Resolução dos Desafios Módulo 3 - Iniciando no Back-end
 </h3>
 
 <p align="center">
@@ -23,15 +23,35 @@
 </p>
 
 <p align="center">
-  <a href="#semana-01---módulos">Semana 01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/chicodiegomoreira/launchbase-04">Início</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desafio-3-1-primeiro-servidor">Desafio 3-1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
 
-## Semana 01 - Módulos
+## Desafio 3-1: Primeiro servidor
+<a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-1-primeiro-servidor.md">Descrição</a>
 
-- [01 - Introdução à programação WEB](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo01/README.md)
-- [02 - Iniciando no Front-end](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo02/README.md)
-- [03 - Iniciando no Back-end](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo03/README.md)
+### Instalação e Execução
+
+Certifique-se de estar na mesmo diretório antes de excutar estes comandos.
+
+- Instalação:
+
+```
+    npm install
+```
+
+- Execução:
+```
+    npm start
+```
+Se tudo der certo, esta mensagem deve ser mostrada no console:
+
+```
+Server is running on port: 5000!
+```
+
+###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/tree/master/docs/semana01/modulo03/desafio-3-1)!
 
 ## Licença
 

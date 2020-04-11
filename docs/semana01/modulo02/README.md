@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Resolução dos Desafios Módulo 2 - Introdução a Programação WEB
+  Resolução dos Desafios Módulo 2 - Iniciando no Front-end
 </h3>
 
 <p align="center">
