@@ -43,7 +43,7 @@
 </div>
 
 ## Desafio 2-2: Página de descrição
-<a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-1-primeiro-html.md">Descrição</a>
+<a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-primeiro-html.md">Descrição</a>
 
 ###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/tree/master/docs/semana01/modulo02/desafio-2-2)!
 ###### Veja a página [aqui](https://chicodiegomoreira.github.io/launchbase-04/semana01/modulo02/desafio-2-2/),  ou clicando na imagem!
