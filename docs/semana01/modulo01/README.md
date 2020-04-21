@@ -12,18 +12,18 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
   </a>
 
-  <a href="https://github.com/chicodiegomoreira/launchbase-04/blob/master/LICENSE" >
+  <a href="https://github.com/diegyohoho/launchbase-04/blob/master/LICENSE" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
   
-  <a href="https://www.linkedin.com/in/chicodiegomoreira/" >
-    <img alt="My Linkedin" src="https://img.shields.io/badge/-chicodiegomoreira-%230077B5?style=social&logo=linkedin">
+  <a href="https://www.linkedin.com/in/diegyohoho/" >
+    <img alt="My Linkedin" src="https://img.shields.io/badge/-diegyohoho-%230077B5?style=social&logo=linkedin">
   </a>
 
 </p>
 
 <p align="center">
-  <a href="https://github.com/chicodiegomoreira/launchbase-04">Início</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/diegyohoho/launchbase-04">Início</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desafio-1-1-primeiros-passos-com-js">Desafio 1-1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desafio-1-2-lidando-com-objetos-e-vetores">Desafio 1-2</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desafio-1-3-funções-e-estruturas-de-repetição">Desafio 1-3</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -35,7 +35,7 @@
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-01/blob/master/desafios/01-1-primeiros-passos-com-js.md">Descrição</a>
 
 ### Cálculo de IMC
-###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo01/desafio-1-1/imc.js)!
+###### Código [aqui](https://github.com/diegyohoho/launchbase-04/blob/master/docs/semana01/modulo01/desafio-1-1/imc.js)!
 
 #### Saída
 ```
@@ -49,7 +49,7 @@ Diego, você está com o peso ideal!
 ```
 
 ### Cálculo de aposentadoria
-###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo01/desafio-1-1/aposentadoria.js)!
+###### Código [aqui](https://github.com/diegyohoho/launchbase-04/blob/master/docs/semana01/modulo01/desafio-1-1/aposentadoria.js)!
 
 #### Saída
 ```
@@ -64,7 +64,7 @@ Marinete, você pode se aposentar!
 ## Desafio 1-2: Lidando com objetos e vetores
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-01/blob/master/desafios/01-2-lidando-com-objetos-e-vetores.md">Descrição</a>
 
-###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo01/desafio-1-2/objetos-vetores.js)!
+###### Código [aqui](https://github.com/diegyohoho/launchbase-04/blob/master/docs/semana01/modulo01/desafio-1-2/objetos-vetores.js)!
 
 #### Objeto Empresa
 ```js
@@ -107,7 +107,7 @@ O usuário Diego Moreira tem 23 anos e usa a tecnologia C#/Unity com especialida
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-01/blob/master/desafios/01-3-funcoes-e-estruturas-de-repeticao.md">Descrição</a>
 
 ### Usuários e tecnologias, Busca por Tecnologia
-###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo01/desafio-1-3/usuario-techs.js)!
+###### Código [aqui](https://github.com/diegyohoho/launchbase-04/blob/master/docs/semana01/modulo01/desafio-1-3/usuario-techs.js)!
 
 #### Usuários e tecnologias
 ```js
@@ -149,7 +149,7 @@ O usuário Jasmine trabalha com CSS
 ```
 
 ### Soma de despesas e receitas
-###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo01/desafio-1-3/despesas-receitas.js)!
+###### Código [aqui](https://github.com/diegyohoho/launchbase-04/blob/master/docs/semana01/modulo01/desafio-1-3/despesas-receitas.js)!
 
 #### Soma Números
 ```js
@@ -194,7 +194,7 @@ Lucia possui saldo POSITIVO de 35.49999999999994
 ## Desafio 1-4: Aplicação: Operações bancárias
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-01/blob/master/desafios/01-4-aplicacao-operacoes-bancarias.md">Descrição</a>
 
-###### Código [aqui](https://github.com/chicodiegomoreira/launchbase-04/blob/master/docs/semana01/modulo01/desafio-1-4/banking-operations.js)!
+###### Código [aqui](https://github.com/diegyohoho/launchbase-04/blob/master/docs/semana01/modulo01/desafio-1-4/banking-operations.js)!
 
 #### Saída
 ```
@@ -211,4 +211,4 @@ Total de Débitos: 2
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/chicodiegomoreira/launchbase-04/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/diegyohoho/launchbase-04/blob/master/LICENSE) para mais detalhes.
