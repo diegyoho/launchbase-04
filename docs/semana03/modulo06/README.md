@@ -117,6 +117,8 @@ Ref: car_order.order_id > orders.id
 
 [Double](desafio-6/async/double/doubleTimeout.js)
  - [Callback](desafio-6/async/double/doubleCallback.js)
+ - [Promise](desafio-6/async/double/doublePromise.js)
+ - [Async/Await](desafio-6/async/double/doubleAsyncAwait.js)
 
 ## Licença
 
