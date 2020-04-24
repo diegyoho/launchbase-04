@@ -24,6 +24,8 @@
 
 <p align="center">
   <a href="#semana-01">Semana 01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#semana-02">Semana 02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#semana-03">Semana 03</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#foodfy">Foodfy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
@@ -34,6 +36,11 @@
 - [02 - Iniciando no Front-end](https://github.com/diegyohoho/launchbase-04/blob/master/docs/semana01/modulo02/README.md)
 - [03 - Iniciando no Back-end](https://github.com/diegyohoho/launchbase-04/blob/master/docs/semana01/modulo03/README.md)
 
+## Semana 02
+- [04 - Controle de Academia](https://github.com/diegyohoho/launchbase-04-gym-manager/blob/master/README.md)
+
+## Semana 03
+- [05 - Persistindo dados da aplicação](https://github.com/diegyohoho/launchbase-04-gym-manager/blob/master/README.md)
 ---
 
 ## Foodfy
