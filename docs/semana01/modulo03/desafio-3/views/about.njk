@@ -24,12 +24,12 @@
 
         </ul>
     </div>
-    <footer class="links">
+    <div class="links">
 
         {% for link in about.links %}
             <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
         {% endfor %}
 
-    </footer>
+    </div>
 
 {% endblock %}

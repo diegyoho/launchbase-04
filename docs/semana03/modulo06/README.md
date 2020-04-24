@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Resolução dos Desafios Módulo 6 - Launchstore
+  Resolução dos Desafios Módulo 6
 </h3>
 
 <p align="center">
@@ -30,8 +30,12 @@
 
 ## Desafios
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-1-primeiro-servidor.md">Descrição</a>
-- [x] DBML
+1. [x] [DBML](#dbml)
+2. [x] [Footer](#footer)
+3. [ ] Funções assíncronas
+4. [ ] Máscaras
 
+#### DBML
 <h1 align="center">
     <img alt="dbml" src="desafio-6/dbml.png" width="400px" />
 </h1>
@@ -101,6 +105,13 @@ Ref: car_order.order_id > orders.id
 ```
 
 ###### Código SQL [aqui](desafio-6)!
+
+#### Footer
+<h1 align="center">
+    <img alt="dbml" src="desafio-6/footer.png"/>
+</h1>
+
+###### Código [aqui](../../semana01/modulo03/desafio-3)!
 
 ## Licença
 

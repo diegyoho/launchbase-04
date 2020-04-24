@@ -19,7 +19,7 @@ body {
     color: var(--hover-link-color);
 }
 
-.links {
+header.links {
     padding: 20px;
     background: #00000020;
     text-align: center;
@@ -84,11 +84,12 @@ a:hover {
     margin: 20px auto;
 }
 
-footer.links {
+div.links {
     background: #0000;
+    text-align: center;
 }
 
-footer.links a, .card a {
+div.links a, .card a {
     text-decoration: underline;
 }
 
@@ -203,4 +204,19 @@ iframe {
 /* === NOT FOUND === */
 #wrapper #not-found {
     margin-top: 200px;   
+}
+
+/* === FOOTER === */
+
+footer {
+    background-color: #00000020;
+    text-align: center;
+    padding: 24px 0px;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+footer p + p {
+    margin-top: 8px;
 }
