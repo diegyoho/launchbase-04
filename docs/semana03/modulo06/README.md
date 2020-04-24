@@ -32,8 +32,8 @@
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-1-primeiro-servidor.md">Descrição</a>
 1. [x] [DBML](#dbml)
 2. [x] [Footer](#footer)
-3. [ ] [Funções assíncronas](#funções-assíncronas)
-4. [ ] Máscaras
+3. [x] [Funções assíncronas](#funções-assíncronas)
+4. [ ] [Máscaras](#máscaras)
 
 #### DBML
 <h1 align="center">
@@ -119,6 +119,15 @@ Ref: car_order.order_id > orders.id
  - [Callback](desafio-6/async/double/doubleCallback.js)
  - [Promise](desafio-6/async/double/doublePromise.js)
  - [Async/Await](desafio-6/async/double/doubleAsyncAwait.js)
+
+[Double More Another](desafio-6/async/doubleMoreAnother/doubleMoreAnother.js)
+ - [Callback](desafio-6/async/doubleMoreAnother/doubleMoreAnotherCallback.js)
+ - [Promise](desafio-6/async/doubleMoreAnother/doubleMoreAnotherPromise.js)
+ - [Async/Await](desafio-6/async/doubleMoreAnother/doubleMoreAnotherAsyncAwait.js)
+
+## Máscaras
+
+Resolvendo...!
 
 ## Licença
 
