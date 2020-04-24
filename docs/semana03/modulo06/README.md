@@ -33,7 +33,7 @@
 - [x] DBML
 
 <h1 align="center">
-    <img alt="dbml" src="desafio-6/dbml.png" width="400px" />
+    <img alt="dbml" src="desafio-6/dbml.png" />
 </h1>
 
 ```
@@ -100,7 +100,7 @@ Ref: car_order.car_id > cars.id
 Ref: car_order.order_id > orders.id
 ```
 
-###### Código SQL [aqui](desafio-6)!
+###### Código SQL [aqui](desafio-6/dbml.sql)!
 
 ## Licença
 
