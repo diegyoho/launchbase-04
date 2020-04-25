@@ -126,8 +126,10 @@ Ref: car_order.order_id > orders.id
  - [Async/Await](desafio-6/async/doubleMoreAnother/doubleMoreAnotherAsyncAwait.js)
 
 ## Máscaras
+- [ ] Percentual
+- [x] CPF
 
-Resolvendo...!
+###### Código [aqui](desafio-6/masks.html)!
 
 ## Licença
 
