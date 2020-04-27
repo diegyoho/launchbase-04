@@ -16,12 +16,21 @@
             }, 1)
         },
         formatPercent(value) {
+            let divide = 10000
+            const arr = value.split(',')
+            if(arr[1]){
+                const decimals = arr[1].split('%')[0].length
+                console.log(value, decimals)
+                if (decimals > 2)
+                    divide = Math.pow(10, decimals + 2)
+            }
+            
             value = value.replace(/\D/g, '')
             return new Intl.NumberFormat('pt-BR', {
                 style: 'percent',
                 minimumFractionDigits: 2,
                 maximumFractionDigits: 4
-            }).format(value/1000000)
+            }).format(value/divide)
         },
         formatCPF(value) {
             value = value.replace(/\D/g, '').slice(0, 11)
