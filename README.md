@@ -41,7 +41,7 @@
 
 ## Semana 03
 - [05 - Persistindo dados da aplicação](https://github.com/diegyohoho/launchbase-04-gym-manager/blob/master/README.md)
-- [06 - Lauchstore](/) | [Desafios](https://github.com/diegyohoho/launchbase-04/blob/master/docs/semana03/modulo06/README.md)
+- [06 - Lauchstore](https://github.com/diegyohoho/launchbase-04-launchstore/blob/master/README.md) | [Desafios](https://github.com/diegyohoho/launchbase-04/blob/master/docs/semana03/modulo06/README.md)
 ---
 
 ## Foodfy
