@@ -26,6 +26,7 @@
   <a href="#semana-01">Semana 01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#semana-02">Semana 02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#semana-03">Semana 03</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#semana-04">Semana 04</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#foodfy">Foodfy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
@@ -42,6 +43,10 @@
 ## Semana 03
 - [05 - Persistindo dados da aplicação](https://github.com/diegyohoho/launchbase-04-gym-manager/blob/master/README.md)
 - [06 - Lauchstore](https://github.com/diegyohoho/launchbase-04-launchstore/blob/master/README.md) | [Desafios](https://github.com/diegyohoho/launchbase-04/blob/master/docs/semana03/modulo06/README.md)
+
+## Semana 04
+- [07 - Upload de Imagens](https://github.com/diegyohoho/launchbase-04-launchstore/blob/master/README.md)
+- [08 - Listando os Produtos da Launchstore](https://github.com/diegyohoho/launchbase-04-launchstore/blob/master/README.md)
 ---
 
 ## Foodfy
