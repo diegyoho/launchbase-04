@@ -47,6 +47,7 @@
 ## Semana 04
 - [07 - Upload de Imagens](https://github.com/diegyohoho/launchbase-04-launchstore/blob/master/README.md)
 - [08 - Listando os Produtos da Launchstore](https://github.com/diegyohoho/launchbase-04-launchstore/blob/master/README.md)
+- [09 - Cadastrando Usuários](https://github.com/diegyohoho/launchbase-04-launchstore/blob/master/README.md)
 ---
 
 ## Foodfy
